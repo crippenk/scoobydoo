@@ -1,2 +1,4 @@
 # scoobydoo
-Where are you?
+This is a Read Me.
+Where are you, ya dumb dugo!
+Do you see me person?
